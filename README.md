@@ -1,7 +1,7 @@
 #Syntactic
 
-Port of the [Syntactic Engine](http://syntactic.omershapira.com/) build for 
-lexical categorization; from Java to Python.
+Java to Python Port of the [Syntactic Engine](http://syntactic.omershapira.com/) 
+built for lexical categorization.
 
 ##Purpose
 
