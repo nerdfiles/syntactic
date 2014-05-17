@@ -3,6 +3,7 @@ from sets import Set
 from syntax.learner import Vocabulary
 from syntax.learner import Word
 
+
 class Cluster:
     self.id = null
     self.totalSize = 0
@@ -15,7 +16,7 @@ class Cluster:
 
     def Cluster:
 
-    def clusterDistribution (self):
+    def clusterDistribution(self):
         if learner.isClusterUpdated(self):
             return distribution
 
