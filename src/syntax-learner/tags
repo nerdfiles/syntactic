@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Łukasz Korecki	/lukasz@coffeesounds.com/
+!_TAG_PROGRAM_NAME	CoffeeTags	//
+!_TAG_PROGRAM_URL	https://github.com/lukaszkorecki/CoffeeTags	/GitHub repository/
+!_TAG_PROGRAM_VERSION	0.5.0	//
+@extend	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^  @extend: (obj) ->$/;"	f	line:13	language:coffee	object:Module
+@include	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^  @include: (obj) ->$/;"	f	line:20	language:coffee	object:Module
+Learner	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^class Learner extends Module$/;"	c	line:60	language:coffee
+Learner	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/learner.coffee	/^class Learner$/;"	c	line:5	language:coffee
+Module	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^class Module$/;"	c	line:12	language:coffee
+ORM	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^ORM =$/;"	v	line:28	language:coffee
+constructor	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^  constructor: (@interface_arguments) ->$/;"	f	line:29	language:coffee	object:ORM
+constructor	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/learner.coffee	/^  constructor: () ->$/;"	f	line:15	language:coffee	object:Learner
+create	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^  create: (attrs) ->$/;"	f	line:33	language:coffee	object:ORM
+extended	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^  extended: ->$/;"	f	line:56	language:coffee	object:ORM
+find	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^  find: (id) ->$/;"	f	line:32	language:coffee	object:ORM
+learner	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/learner.coffee	/^  learner: (clusters = null, threshold = null, epsilon = null) ->$/;"	f	line:30	language:coffee	object:Learner
+recursive_add	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^  recursive_add: (file = null, corpus = null) ->$/;"	f	line:49	language:coffee	object:ORM
+save	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^      save: ->$/;"	f	line:58	language:coffee	object:ORM.extended
+set_corpus	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/learner.coffee	/^  set_corpus: (corpus = null) ->$/;"	f	line:36	language:coffee	object:Learner
+text_corpus	/Users/nerdfiles/Projects/Syntactic/src/syntax-learner/init.coffee	/^  text_corpus: (name = null, in_folder = null, out_folder = null, clusters = null, threshold = null, epsilon = null) ->$/;"	f	line:34	language:coffee	object:ORM
